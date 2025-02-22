@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Ecology and Evolutionary Biology, University of Oklahoma, United States, 2022-2026 (expected)
-* *Advisor: Dr. Xiangming Xiao*
+<p><strong>Advisor: </strong>strong>Dr. Xiangming Xiao</p>
 * M.S. in Geography, Peking University, China, 2017-2020
 * *Advisors: Drs. Hui Zeng & Shuli Niu*
 * *Thesis: Responses of soil respiration and microbial community to warming and clipping in an alpine meadow*
