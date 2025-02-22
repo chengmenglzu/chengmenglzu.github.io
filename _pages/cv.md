@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ecology and Evolutionary Biology, University of Oklahoma, United States, 2022-2026 (expected)
+* **Advisor: Dr. Xiangming Xiao**
+* M.S. in Geography, Peking University, China, 2017-2020
+* B.S. in Grassland Science, Lanzhou University, China, 2013-2017
 
 Work experience
 ======
