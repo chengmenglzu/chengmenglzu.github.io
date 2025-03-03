@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 I am third year PhD student major in Ecology and Evolutionary Biology from the School of Biological Sciences, University of Oklahoma. My research interests includes remote snesing, ecology, and data-driven modeling.
-You can find my CV here:[Cheng Meng's Curriculum Vitae](../assets/Cheng_Meng_Curriculm_Vitae.pdf).
+You can find my CV here:[Cheng Meng's Curriculum Vitae](../assets/Cheng_Meng_CV.pdf).
 
